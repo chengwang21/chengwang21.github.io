@@ -1,8 +1,7 @@
-jeremenichelli.github.io
+
+chengwang21.github.io
 ========================
 
-Hey there, this is the repository of my personal site. Feel free to check out the code, you can leave a comment if you see something that I should change.
+This is the repository of my personal site, which is forked from jeremenichelli/jeremenichelli.github.io.
 
-Cheers!
-
-Jeremias Menichelli | Web developer
+Thanks to jeremenichelli, your site is really beautiful!
